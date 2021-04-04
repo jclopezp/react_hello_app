@@ -1,6 +1,6 @@
 # Basic app for learning how it works React
-This project has been the result of the tutorial course:
-https://es.reactjs.org/docs/hello-world.html
+This project has been the result of the tutorial course: \
+https://es.reactjs.org/docs/hello-world.html \
 Started on Apr.3, 2021
 
 # Getting Started with Create React App
